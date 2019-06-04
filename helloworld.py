@@ -1,0 +1,2 @@
+print("Kuy")
+print("ped")
